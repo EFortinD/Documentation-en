@@ -45,7 +45,7 @@ Other generalist repositories include:
 1. [Zenodo](https://zenodo.org/). An open-access repository for research data, offering long-term storage for scientific research outputs.
 2. [Figshare](https://figshare.com/). A cloud-based repository where researchers can upload, share, and manage research data, figures, and publications.
 3. [GDR](https://uquebec.libguides.com/gdr/). The Guide des dépôts de recherche is a platform providing access to a variety of scientific research data repositories.
-4. [GitHub](https://github.com/). A platform primarily used for code hosting and collaboration, but also for storing research datasets and project documentation. GitHub releases can be automatically configured to be archived in Zenodo.
+4. [GitHub](https://github.com/). A platform primarily used for code hosting and collaboration, but also for storing research datasets and project documentation. GitHub releases can be automatically configured to be archived in Zenodo or Borealis.
 5. [Borealis](https://borealisdata.ca/). A Canadian research data repository that offers long-term storage and sharing of research data across institutions.
 6. [FRDR (Federated Research Data Repository)](https://www.frdr-dfdr.ca/). A platform for discovering and sharing Canadian research data, aimed at supporting data management and preservation.
 
